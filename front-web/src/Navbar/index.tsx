@@ -1,5 +1,3 @@
-import App from "../App";
-
 import './styles.css';
 import {ReactComponent as Logo} from './logo.svg';
 function Navbar(){
